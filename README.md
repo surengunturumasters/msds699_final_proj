@@ -1,1 +1,3 @@
-# msds699_final_proj
+# Vegas Betting Odds for NBA Games
+
+Vegas releases betting odds in order to attract bettors to bet on the outcome of a certain sports event. However there is a fine line between attracting people to actually bet on the games so that external bettors will lose and the organization in Vegas makes the most money out of lost bets. In this project, I will be introducing several models and picking the best model that this certain organization in Vegas can use to figure out which team will likely win a sports match and so entice bettors who bet that the other team would win, and thus win all of their money.
