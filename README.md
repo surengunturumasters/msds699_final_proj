@@ -6,7 +6,7 @@ Vegas releases betting odds in order to attract bettors to bet on the outcome of
 Goal: We will be using data from the National Basketball Association (NBA) to figure out which team will win a given basketball matchup
 
 ## Data
-I used data from Kaggle(https://www.kaggle.com/nathanlauga/nba-games) from the games.csv and teams.csv. I performed external EDA (not shown in the code) and joined them into the nba_data.csv file that is in this github repo. A thorough description of all the features and labels used are included in the code below. 
+I used data from [Kaggle](https://www.kaggle.com/nathanlauga/nba-games) from the games.csv and teams.csv. I performed external EDA (not shown in the code) and joined them into the nba_data.csv file that is in this github repo. A thorough description of all the features and labels used are included in the code below. 
 
 ## Code
 [Code for the Project Can Be Found Here](https://github.com/surengunturumasters/msds699_final_proj/blob/main/Final_Proj_Code.ipynb)
