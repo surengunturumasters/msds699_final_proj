@@ -38,3 +38,5 @@ This is an example of how the model will be used. In this example scenario, imag
 3) Labels can be point differentials instead of binary wins and losses (more interesting bets)
 4) Incorporate more sports within the model to find more ways to increase revenue to a larger audience
 
+## Presentation
+[Youtube Video Presentation](https://youtu.be/xb8b7iQ4i7U)
